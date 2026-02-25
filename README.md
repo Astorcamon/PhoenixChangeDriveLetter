@@ -3,7 +3,7 @@ Fill the content whith any you want.-->
 
 <div align="center">
    <h2>Phoenix Change Drive Letter</h2>
-   <span>🎬 The amazing tool Phoenix Change Drive Letter is coming soon... in English and Spanish 🎬.</span>
+   <span>🎬 The amazing tool Phoenix Change Drive Letter is coming soon... in <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter">English</a> and <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter/tree/PhoenixChangeDriveLetter-(ES)">Spanish</a> 🎬.</span>
 </div>
 
 <hr/>
