@@ -3,7 +3,7 @@ Fill the content whith any you want.-->
 
 <div align="center">
    <h2>Phoenix Change Drive Letter</h2>
-   <span>🎬 La alucinante herramienta Phoenix Change Drive Letter está en camino... próximamente en inglés y español 🎬.</span>
+   <span>🎬 La alucinante herramienta Phoenix Change Drive Letter está en camino... próximamente en <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter">inglés</a> y <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter/tree/PhoenixChangeDriveLetter-(ES)">español</a> 🎬.</span>
 </div>
 
 <hr/>
