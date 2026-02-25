@@ -3,7 +3,7 @@ Fill the content whith any you want.-->
 
 <div align="center">
    <h2>Phoenix Change Drive Letter</h2>
-   <span>🎬 The amazing tool Phoenix Change Drive Letter is coming soon... in English and Spanish 🎬.</span>
+   <span>🎬 La alucinante herramienta Phoenix Change Drive Letter está en camino... próximamente en inglés y español 🎬.</span>
 </div>
 
 <hr/>
@@ -32,11 +32,11 @@ Fill the content whith any you want.-->
 
 ## 🎬 Trailer — Spoiler‑Free 🍿
 
-*“In a world where drive letters cause chaos…  
-one tool will rise…  
-to restore order.”*
+*“En un mundo donde las letras de las unidades siembran el caos…  
+una herramienta se alzará…  
+para devolver el orden.”*
 
-A path‑repair tool designed to fix errors caused by changing the drive letter of a storage device using the Windows Disk Management utility or third‑party applications.
+Phoenix Change Drive Letter es la primera herramienta del mundo diseñada para corregir los errores en las rutas que se producen al cambiar la letra de una unidad de almacenamiento desde el Administrador de discos de Windows o mediante herramientas de terceros.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
