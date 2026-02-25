@@ -37,13 +37,12 @@ una herramienta se alzará…
 para devolver el orden.”*
 
 Phoenix Change Drive Letter es la primera herramienta del mundo diseñada para corregir los errores en las rutas que se producen al cambiar la letra de una unidad de almacenamiento desde el Administrador de discos de Windows o mediante herramientas de terceros.
-
+<!--
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Documentation](#documentation)
 - [Screenshots](#screenshots)
 - [Support Development](#support-development)
-
 
 # Getting Started
 Instructions of how to use or how to install.
@@ -53,7 +52,7 @@ Links to documentation
 
 # Screenshots
 If have if not remove from Table of Contents
-
+-->
 # Support Development
    <Table>
       <th>Paypal</th>
