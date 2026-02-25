@@ -37,7 +37,7 @@ one tool will rise…
 to restore order.”*
 
 A path‑repair tool designed to fix errors caused by changing the drive letter of a storage device using the Windows Disk Management utility or third‑party applications.
-
+<!--
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Documentation](#documentation)
@@ -53,7 +53,7 @@ Links to documentation
 
 # Screenshots
 If have if not remove from Table of Contents
-
+-->
 # Support Development
    <Table>
       <th>Paypal</th>
