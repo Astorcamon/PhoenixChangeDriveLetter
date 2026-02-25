@@ -34,7 +34,11 @@ Fill the content whith any you want.-->
 
 🎬 **The amazing tool Phoenix Change Drive Letter is coming soon... in English and Spanish** 🎬
 
-About this tool:
+## 🎬 Trailer — Spoiler‑Free 🍿
+
+*“In a world where drive letters cause chaos…  
+one tool will rise…  
+to restore order.”*
 
 A path‑repair tool designed to fix errors caused by changing the drive letter of a storage device using the Windows Disk Management utility or third‑party applications.
 
