@@ -2,8 +2,10 @@
 Fill the content whith any you want.-->
 
 <div align="center">
-   <h2>Phoenix Change Drive Letter</h2>
-   <span>🎬 The amazing tool Phoenix Change Drive Letter is coming soon... in <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter">English</a> and <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter/tree/PhoenixChangeDriveLetter-(ES)">Spanish</a> 🎬.</span>
+   <h1>Phoenix Change Drive Letter</h1>
+   <h2>🎬 Coming soon on GitHub…</h2>
+   <p>🎬 <i>The amazing Phoenix Change Drive Letter tool that will change the registry… forever…</i> 🎬.</p> 
+   <p>(Subtittled in <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter">English</a> and <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter/tree/PhoenixChangeDriveLetter-(ES)">Spanish</a>)</p> 
 </div>
 
 <hr/>
@@ -30,13 +32,13 @@ Fill the content whith any you want.-->
 
 </div>
 
-## 🎬 Trailer — Spoiler‑Free 🍿
+## 🎬 Trailer - Spoiler‑Free 🍿
 
 *“In a world where drive letters cause chaos…  
-one tool will rise…  
-to restore order.”*
+one tool will rise to restore order.”*
 
-A path‑repair tool designed to fix errors caused by changing the drive letter of a storage device using the Windows Disk Management utility or third‑party applications.
+The world’s first tool, born to fix every broken path that appears after changing a drive letter, no matter if it was done through Windows Disk Management or any third‑party tool.
+
 <!--
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -54,7 +56,7 @@ Links to documentation
 # Screenshots
 If have if not remove from Table of Contents
 -->
-# Support Development
+## Support Development
    <Table>
       <th>Paypal</th>
       <th>Github</th>
