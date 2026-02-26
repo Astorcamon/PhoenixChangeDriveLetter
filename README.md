@@ -2,8 +2,10 @@
 Fill the content whith any you want.-->
 
 <div align="center">
-   <h2>Phoenix Change Drive Letter</h2>
-   <span>🎬 La alucinante herramienta Phoenix Change Drive Letter está en camino... próximamente en <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter">inglés</a> y <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter/tree/PhoenixChangeDriveLetter-(ES)">español</a> 🎬.</span>
+   <h1>Phoenix Change Drive Letter</h2>
+   <h3>Próximamente en Github...</h3>
+   <p>🎬 <i>La alucinante herramienta Phoenix Change Drive Letter que cambiará el registro... para siempre...</i> 🎬 </p>
+   <p>(Subtitulada en <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter">inglés</a> y <a href="https://github.com/Astorcamon/PhoenixChangeDriveLetter/tree/PhoenixChangeDriveLetter-(ES)">castellano</a>)</p>
 </div>
 
 <hr/>
@@ -29,14 +31,17 @@ Fill the content whith any you want.-->
 [![Visits](https://visitor-badge.laobi.icu/badge?page_id=Astorcamon.Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon)
 
 </div>
+<hr/>
 
-## 🎬 Trailer — Spoiler‑Free 🍿
+## 🎬 Trailer - Spoiler‑Free 🍿
 
-*“En un mundo donde las letras de las unidades siembran el caos…  
-una herramienta se alzará…  
-para devolver el orden.”*
+*“En un mundo donde las letras de los dispositivos siembran el caos…</br>
+una herramienta se alzará para devolver el orden...”*
 
-Phoenix Change Drive Letter es la primera herramienta del mundo diseñada para corregir los errores en las rutas que se producen al cambiar la letra de una unidad de almacenamiento desde el Administrador de discos de Windows o mediante herramientas de terceros.
+Phoenix Change Drive Letter.
+
+La primera herramienta del mundo, nacida para corregir los errores de rutas que se producen al cambiar la letra de una unidad de almacenamiento, ya sea desde el Administrador de discos de Windows o desde herramientas de terceros.
+
 <!--
 ## Table of Contents
 - [Getting Started](#getting-started)
